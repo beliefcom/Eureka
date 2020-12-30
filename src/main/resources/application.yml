@@ -1,0 +1,13 @@
+#spring:
+#  application:
+#    name: Eureka Server Demo1
+#server:
+#  port: 8081
+#eureka:
+#  instance:
+#    hostname: eureka1
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#  serviceUrl:
+#    deaultZone: http://localhost:8081/eureka/
